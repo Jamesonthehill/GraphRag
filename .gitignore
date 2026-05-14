@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Neo4j local database files
+neo4j/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE / system
+.idea/
+.DS_Store

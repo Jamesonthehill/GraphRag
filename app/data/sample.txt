@@ -1,0 +1,17 @@
+RAG is a retrieval method that uses embeddings to retrieve relevant document chunks.
+Embeddings represent text as numerical vectors.
+Vector search finds semantically similar document chunks.
+
+GraphRAG is a retrieval method that uses knowledge graphs.
+GraphRAG uses Neo4j to store entities and relationships.
+GraphRAG improves vanilla RAG by adding graph traversal.
+Graph traversal helps answer multi-hop relationship questions.
+
+Neo4j is a graph database.
+Neo4j stores nodes and relationships.
+Nodes represent entities.
+Relationships connect entities.
+
+LangChain connects language models with external data sources.
+LangChain supports retrieval augmented generation.
+LangChain can work with Neo4j and OpenAI.
